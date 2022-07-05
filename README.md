@@ -7,4 +7,4 @@
 - Academic year: 2021/2022 (Due: August 12, 2022)
 
 # Abstract
-This thesis investigates how a Natural Language Processing powered tool could be implemented to automatically summarize relevant scientific papers in the context of human health and eventually distill evidence-based lifestyle recommendations given a particular query.
+This thesis investigates how a Natural Language Processing powered tool could be implemented to automatically summarize relevant scientific papers in the biomedical literature and eventually distill evidence-based recommendations given a particular query.
